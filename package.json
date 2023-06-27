@@ -1,0 +1,19 @@
+{
+  "name": "dodgethoseballs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "uuid": "8.2.0",
+    "ws": "7.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
